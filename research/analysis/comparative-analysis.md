@@ -7,46 +7,27 @@ Esta análise comparativa tem como objetivo avaliar sistematicamente os principa
 ## Metodologia de Análise
 
 ### Critérios de Seleção
-- **Relevância**: Explorers com maior adoção e impacto
-- **Diversidade**: Diferentes ecossistemas blockchain
-- **Acessibilidade**: Disponibilidade de código fonte ou documentação
-- **Inovação**: Características únicas ou avançadas
+A seleção dos block explorers foi baseada em critérios rigorosos de relevância, considerando explorers com maior adoção e impacto no mercado, diversidade representando diferentes ecossistemas blockchain, acessibilidade através da disponibilidade de código fonte ou documentação técnica, e inovação identificando características únicas ou avançadas que possam servir como referência.
 
 ### Framework de Avaliação
 
-| Dimensão | Critérios | Peso | Métricas |
-|----------|-----------|------|----------|
-| **Arquitetura** | Modularidade, Escalabilidade, Manutenibilidade | 25% | Complexidade, Acoplamento, Coesão |
-| **Performance** | Latência, Throughput, Uso de Recursos | 20% | Tempo de resposta, CPU/Memory, QPS |
-| **Segurança** | Autenticação, Autorização, Integridade | 20% | Vulnerabilidades, Rate limiting, HTTPS |
-| **Usabilidade** | Interface, Navegação, Acessibilidade | 20% | Heurísticas de Nielsen, WCAG, Mobile |
-| **Funcionalidades** | Features, APIs, Integração | 15% | Cobertura, Documentação, SDKs |
+O framework de avaliação foi estruturado em cinco dimensões principais, cada uma com peso específico baseado na importância para o desenvolvimento de block explorers. A dimensão de Arquitetura (25%) avalia modularidade, escalabilidade e manutenibilidade através de métricas de complexidade, acoplamento e coesão. Performance (20%) analisa latência, throughput e uso de recursos através de tempo de resposta, CPU/Memory e QPS.
+
+A dimensão de Segurança (20%) examina autenticação, autorização e integridade através de vulnerabilidades, rate limiting e HTTPS. Usabilidade (20%) avalia interface, navegação e acessibilidade através das heurísticas de Nielsen, WCAG e compatibilidade mobile. Funcionalidades (15%) analisa features, APIs e integração através de cobertura, documentação e SDKs.
 
 ## Explorers Selecionados para Análise
 
 ### 1. Etherscan (Ethereum)
-- **Tipo**: Proprietário, Monolítico
-- **Stack**: PHP, MySQL, JavaScript
-- **Público**: Desenvolvedores Ethereum
-- **Características**: API robusta, UX referência
+O Etherscan representa o padrão de referência para block explorers proprietários, operando com arquitetura monolítica baseada em PHP, MySQL e JavaScript. A plataforma atende principalmente desenvolvedores do ecossistema Ethereum, oferecendo API robusta e UX considerada referência no setor.
 
 ### 2. BlockScout (Open Source)
-- **Tipo**: Open Source, Microserviços
-- **Stack**: Elixir, Phoenix, React
-- **Público**: Comunidade open source
-- **Características**: Modular, customizável
+O BlockScout é a principal alternativa open source, implementando arquitetura de microserviços baseada em Elixir, Phoenix e React. A plataforma atende a comunidade open source, oferecendo modularidade e customização completa para diferentes necessidades.
 
 ### 3. Mintscan (Cosmos)
-- **Tipo**: Proprietário, SaaS
-- **Stack**: Go, React, PostgreSQL
-- **Público**: Ecossistema Cosmos
-- **Características**: Multi-chain, IBC support
+O Mintscan opera como plataforma proprietária SaaS, utilizando stack baseada em Go, React e PostgreSQL. A plataforma atende o ecossistema Cosmos, oferecendo suporte multi-chain e integração nativa com IBC (Inter-Blockchain Communication).
 
 ### 4. Subscan (Polkadot)
-- **Tipo**: Híbrido, Multi-chain
-- **Stack**: Rust, React, PostgreSQL
-- **Público**: Ecossistema Polkadot
-- **Características**: Substrate-native, Parachains
+O Subscan representa uma abordagem híbrida multi-chain, utilizando stack baseada em Rust, React e PostgreSQL. A plataforma atende o ecossistema Polkadot, oferecendo integração nativa com Substrate e suporte completo a parachains.
 
 ### 5. Solana Explorer
 - **Tipo**: Oficial, High-performance
