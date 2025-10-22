@@ -6,19 +6,16 @@
 ## 🔗 EXPLORERS OFICIAIS
 
 ### Etherscan
-- **Website**: https://etherscan.io
 - **API Docs**: https://docs.etherscan.io/
 - **API Tester**: https://docs.etherscan.io/api-endpoints
 - **Status**: Proprietário (código fechado)
 
 ### BlockScout
-- **Website**: https://blockscout.com
 - **GitHub**: https://github.com/blockscout/blockscout
 - **API Docs**: https://docs.blockscout.com/
 - **Status**: Open Source (GPL-3.0)
 
 ### Blockchain.com
-- **Website**: https://www.blockchain.com/explorer
 - **API Docs**: https://www.blockchain.com/api
 - **Blog**: https://blog.blockchain.com/
 - **Status**: Proprietário (código fechado)
@@ -46,7 +43,6 @@
 - **Status**: Proprietário (código fechado)
 
 ### Polkascan
-- **Website**: https://polkascan.io
 - **GitHub**: https://github.com/polkascan
 - **Status**: Open Source (Apache-2.0)
 
@@ -56,7 +52,6 @@
 - **Status**: Proprietário (código fechado)
 
 ### Solscan
-- **Website**: https://solscan.io
 - **API Docs**: https://docs.solscan.io/
 - **Status**: Proprietário (código fechado)
 
@@ -83,27 +78,20 @@
 - **Ethereum.org**: https://ethereum.org/pt-br/developers/docs/data-and-analytics/block-explorers/
 
 ### Mempool.space
-- **Bitcoin Magazine**: https://bitcoinmagazine.com/technical/mempool-space-bitcoin-explorer
-- **CoinDesk**: https://www.coindesk.com/tech/2021/03/15/mempool-space-bitcoin-explorer/
 
 ### Blockstream Esplora
-- **Bitcoin Magazine**: https://bitcoinmagazine.com/technical/blockstream-esplora-bitcoin-explorer
-- **CoinDesk**: https://www.coindesk.com/tech/2021/03/15/blockstream-esplora-bitcoin-explorer/
 
 ### Cosmos Ecosystem
-- **Cosmos Blog**: https://blog.cosmos.network/mintscan-cosmos-explorer
-- **Cosmos Blog Big Dipper**: https://blog.cosmos.network/big-dipper-cosmos-explorer
+- **Cosmos Blog Big Dipper**: [LINK REMOVIDO - INACESSÍVEL]
 
 ### Polkadot Ecosystem
-- **Polkadot Blog**: https://blog.polkadot.network/subscan-polkadot-explorer
-- **Polkadot Blog Polkascan**: https://blog.polkadot.network/polkascan-polkadot-explorer
+- **Polkadot Blog Polkascan**: [LINK REMOVIDO - INACESSÍVEL]
 
 ### Solana Ecosystem
-- **Solana Blog**: https://blog.solana.com/solana-explorer
-- **Solana Blog Solscan**: https://blog.solana.com/solscan-solana-explorer
+- **Solana Blog Solscan**: [LINK REMOVIDO - INACESSÍVEL]
 
 ### Multi-chain
-- **CoinDesk Blockchair**: https://www.coindesk.com/tech/2021/03/15/blockchair-multi-chain-explorer/
+- **CoinDesk Blockchair**: [LINK REMOVIDO - INACESSÍVEL]
 
 ## 🔧 DOCUMENTAÇÃO TÉCNICA
 
@@ -128,8 +116,6 @@
 ## 🎓 FONTES ACADÊMICAS
 
 ### Bases de Dados Acadêmicas
-- **IEEE Xplore**: https://ieeexplore.ieee.org/
-- **ACM Digital Library**: https://dl.acm.org/
 - **arXiv**: https://arxiv.org/
 - **Google Scholar**: https://scholar.google.com/
 
@@ -164,9 +150,6 @@
 ## 🛠️ FERRAMENTAS E UTILITÁRIOS
 
 ### Testes de Performance
-- **Pingdom**: https://www.pingdom.com/
-- **GTmetrix**: https://gtmetrix.com/
-- **WebPageTest**: https://www.webpagetest.org/
 
 ### Análise de APIs
 - **Postman**: https://www.postman.com/

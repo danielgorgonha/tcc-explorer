@@ -43,7 +43,7 @@ Mapear e analisar sistematicamente o estado da arte em block explorers, identifi
 
 **A. Revisão Sistemática da Literatura**
 - Bases: IEEE Xplore, ACM Digital Library, arXiv, Google Scholar
-- Período: 2015-2024
+- Período: 2015-2025
 - Palavras-chave: "blockchain explorer", "block explorer", "blockchain indexer"
 - Critérios de inclusão: artigos técnicos, implementações reais
 
@@ -289,5 +289,5 @@ Mapear e analisar sistematicamente o estado da arte em block explorers, identifi
 ---
 
 **Documento**: Plano de Pesquisa v1.0  
-**Data**: Janeiro 2024  
+**Data**: Janeiro 2025  
 **Status**: Aprovado para execução
