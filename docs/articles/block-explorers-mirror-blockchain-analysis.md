@@ -499,6 +499,6 @@ As blockchain technology evolves, explorers will continue to serve as the **brid
 
 *This article is part of the TCC Explorer project, a scientific research initiative on block explorers developed as part of the Blockchain graduate program.*
 
-**Funding**: This research was supported by the Blockchain Graduate Program at [University Name].  
+**Funding**: This research was supported by the Blockchain Graduate Program at NearX.  
 **Conflicts of Interest**: The authors declare no conflicts of interest.  
-**Data Availability**: Research data and code are available at [GitHub Repository URL].
+**Data Availability**: Research data and code are available at https://github.com/danielgorgonha/tcc-explorer.
