@@ -160,7 +160,8 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 - [ ] 1+ artigo aceito em conferência/periódico
 
 ### Pesquisa
-- [x] 12+ explorers analisados
+- [x] 12+ explorers analisados (análise teórica)
+- [ ] 5+ explorers analisados (análise prática)
 - [x] Taxonomia completa desenvolvida
 - [x] Framework de avaliação validado
 - [x] 5+ lacunas de pesquisa identificadas
@@ -261,8 +262,114 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 ### Imediato (Próximas 2 semanas)
 - [ ] Submeter Artigo 1 para ACM Computing Surveys
 - [ ] Publicar Whitepaper oficialmente (GitHub, arXiv, ou plataforma acadêmica)
-- [ ] Iniciar desenvolvimento do Artigo 2 (Technical Paper)
+- [ ] **NOVA FASE**: Análise Prática de Repositórios Open Source
 - [ ] Preparar apresentação para orientador
+
+### Análise Prática de Repositórios (Nova Fase)
+
+#### Objetivos da Análise Prática
+- [ ] **Clonar repositórios** dos explorers open source identificados
+- [ ] **Testar funcionalidades** em ambiente local
+- [ ] **Analisar stacks tecnológicas** reais (não apenas documentação)
+- [ ] **Validar métricas** de performance com testes práticos
+- [ ] **Documentar descobertas** para enriquecer o whitepaper
+
+#### Explorers Open Source para Análise
+
+**Prioridade Alta (Análise Completa)**:
+- [ ] **BlockScout** (Ethereum) - https://github.com/blockscout/blockscout
+  - **Motivo**: Maior explorer open source Ethereum
+  - **Stack**: Elixir, Phoenix, PostgreSQL
+  - **Foco**: Arquitetura de microserviços
+
+- [ ] **Mempool.space** (Bitcoin) - https://github.com/mempool/mempool
+  - **Motivo**: Explorer Bitcoin mais popular
+  - **Stack**: TypeScript, Node.js, MySQL
+  - **Foco**: Performance e UX
+
+**Prioridade Média (Análise Parcial)**:
+- [ ] **Big Dipper** (Cosmos) - https://github.com/forbole/big-dipper-2.0-cosmos
+  - **Stack**: Next.js, TypeScript, GraphQL
+  - **Foco**: Interface moderna
+
+- [ ] **Subscan** (Polkadot) - https://github.com/itering/subscan
+  - **Stack**: PHP, Laravel, MySQL
+  - **Foco**: Arquitetura monolítica
+
+**Prioridade Baixa (Análise Rápida)**:
+- [ ] **Solana Explorer** (Solana) - https://github.com/solana-labs/explorer
+  - **Stack**: React, TypeScript
+  - **Foco**: Performance em alta frequência
+
+#### Atividades Técnicas Planejadas
+- [ ] **Setup de Ambiente**: Docker, dependências, configurações
+- [ ] **Análise de Código**: Arquitetura, padrões, tecnologias
+- [ ] **Testes de Performance**: Load testing, métricas reais
+- [ ] **Documentação**: Screenshots, logs, descobertas
+- [ ] **Comparação**: Dados teóricos vs práticos
+
+#### Metodologia de Análise Prática
+
+**Fase 1: Setup e Configuração (Semana 1)**
+- [ ] Clonar repositórios dos 5 explorers open source
+- [ ] Configurar ambiente de desenvolvimento (Docker, dependências)
+- [ ] Documentar processo de setup e dificuldades encontradas
+- [ ] Criar script de automação para setup
+
+**Fase 2: Análise Arquitetural (Semana 2)**
+- [ ] Mapear estrutura de diretórios e arquivos
+- [ ] Identificar tecnologias utilizadas (package.json, requirements.txt, etc.)
+- [ ] Analisar padrões de código e arquitetura
+- [ ] Documentar diferenças entre documentação e implementação real
+
+**Fase 3: Testes Funcionais (Semana 3)**
+- [ ] Executar explorers em ambiente local
+- [ ] Testar funcionalidades principais (busca, visualização, APIs)
+- [ ] Medir performance básica (tempo de resposta, uso de memória)
+- [ ] Documentar bugs, limitações e pontos fortes
+
+**Fase 4: Análise Comparativa (Semana 4)**
+- [ ] Comparar dados práticos com análise teórica do whitepaper
+- [ ] Identificar discrepâncias entre documentação e realidade
+- [ ] Validar métricas de performance com testes reais
+- [ ] Atualizar whitepaper com descobertas práticas
+
+#### Entregas da Análise Prática
+- [ ] **Relatório Técnico**: Análise detalhada de cada explorer
+- [ ] **Scripts de Setup**: Automação para configuração
+- [ ] **Métricas Reais**: Dados de performance coletados
+- [ ] **Whitepaper Atualizado**: Versão 2.1 com dados práticos
+- [ ] **Artigo Técnico**: Base para Artigo 2 com análise prática
+
+#### Recursos Necessários para Análise Prática
+
+**Hardware**:
+- [ ] **CPU**: Mínimo 8 cores (recomendado 16 cores)
+- [ ] **RAM**: Mínimo 16GB (recomendado 32GB)
+- [ ] **Storage**: Mínimo 500GB SSD (para blockchain data)
+- [ ] **Rede**: Conexão estável para sync de blockchain
+
+**Software**:
+- [ ] **Docker & Docker Compose**: Para containerização
+- [ ] **Node.js**: Versão 18+ para frontend
+- [ ] **Python**: Versão 3.9+ para scripts de análise
+- [ ] **Git**: Para clonar repositórios
+- [ ] **PostgreSQL**: Para análise de dados
+- [ ] **Redis**: Para cache e performance testing
+
+**Blockchain Nodes** (Opcional):
+- [ ] **Ethereum Node**: Geth ou Erigon (para BlockScout)
+- [ ] **Bitcoin Node**: Bitcoin Core (para Mempool.space)
+- [ ] **Cosmos Node**: Cosmos SDK (para Big Dipper)
+- [ ] **Polkadot Node**: Substrate (para Subscan)
+- [ ] **Solana Node**: Solana Labs (para Solana Explorer)
+
+**Ferramentas de Análise**:
+- [ ] **Apache JMeter**: Load testing
+- [ ] **Prometheus + Grafana**: Métricas e monitoramento
+- [ ] **SonarQube**: Análise de qualidade de código
+- [ ] **GitHub CLI**: Automação de repositórios
+- [ ] **VS Code**: IDE com extensões para análise
 
 ### Curto Prazo (Próximos 2 meses)
 - [ ] Completar Artigo 2 e submeter para IEEE Blockchain Conference
