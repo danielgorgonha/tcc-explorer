@@ -119,7 +119,7 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 
 **Entregas**:
 - ✅ 1 artigo concluído e pronto para submissão
-- ✅ Whitepaper publicado
+- ✅ Whitepaper desenvolvido (pronto para publicação)
 - ✅ Documentação técnica completa
 - 🔄 2-4 artigos adicionais em desenvolvimento
 
@@ -153,7 +153,8 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 ## Métricas de Sucesso
 
 ### Publicações
-- [x] Whitepaper completo publicado
+- [x] Whitepaper completo desenvolvido
+- [ ] Whitepaper publicado oficialmente
 - [x] 1 artigo concluído e pronto para submissão
 - [ ] 2+ artigos adicionais submetidos
 - [ ] 1+ artigo aceito em conferência/periódico
@@ -195,6 +196,7 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 
 **Marco 4** (Fim Mês 5): Artigos produzidos 🔄 EM ANDAMENTO
 - ✅ 1 artigo concluído e pronto para submissão
+- ✅ Whitepaper desenvolvido (pronto para publicação)
 - ✅ Documentação completa
 - 🔄 2-4 artigos adicionais em desenvolvimento
 
@@ -258,6 +260,7 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 
 ### Imediato (Próximas 2 semanas)
 - [ ] Submeter Artigo 1 para ACM Computing Surveys
+- [ ] Publicar Whitepaper oficialmente (GitHub, arXiv, ou plataforma acadêmica)
 - [ ] Iniciar desenvolvimento do Artigo 2 (Technical Paper)
 - [ ] Preparar apresentação para orientador
 
