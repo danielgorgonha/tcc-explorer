@@ -154,7 +154,7 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 
 ### Publicações
 - [x] Whitepaper completo desenvolvido
-- [ ] Whitepaper publicado oficialmente
+- [x] Whitepaper publicado oficialmente
 - [x] 1 artigo concluído e pronto para submissão
 - [ ] 2+ artigos adicionais submetidos
 - [ ] 1+ artigo aceito em conferência/periódico
