@@ -63,6 +63,27 @@
 9. Related Work fraco → Expandido
 10. Casos de estudo ausentes → Detalhados
 
+### Próximos Passos
+
+#### Fase Atual: Publicação (Janeiro 2025)
+- [x] Artigo científico criado e corrigido
+- [x] Templates melhorados com padrões acadêmicos
+- [x] Guias consolidados para facilitar manutenção
+- [ ] Submeter artigo para revista científica
+- [ ] Preparar apresentação TCC
+
+#### Fase Seguinte: Expansão (Fevereiro-Março 2025)
+- [ ] Coletar dados empíricos adicionais
+- [ ] Realizar benchmarking de performance
+- [ ] Analisar código fonte open source
+- [ ] Escrever artigos adicionais baseados nos templates
+
+#### Fase Final: Conclusão (Abril-Maio 2025)
+- [ ] Finalizar todos os artigos planejados
+- [ ] Preparar defesa do TCC
+- [ ] Publicar dataset de pesquisa
+- [ ] Documentar lições aprendidas
+
 ## [2.0.0] - 2025-01-20
 
 ### Artigo Científico Criado
@@ -165,27 +186,6 @@
 - docker-compose.yml - Infraestrutura removida
 - CONTRIBUTING.md - Guia de contribuição removido
 - Ícones excessivos - Todos os emojis desnecessários removidos
-
-### Próximos Passos
-
-#### Fase Atual: Publicação (Janeiro 2025)
-- [x] Artigo científico criado e corrigido
-- [x] Templates melhorados com padrões acadêmicos
-- [x] Guias consolidados para facilitar manutenção
-- [ ] Submeter artigo para revista científica
-- [ ] Preparar apresentação TCC
-
-#### Fase Seguinte: Expansão (Fevereiro-Março 2025)
-- [ ] Coletar dados empíricos adicionais
-- [ ] Realizar benchmarking de performance
-- [ ] Analisar código fonte open source
-- [ ] Escrever artigos adicionais baseados nos templates
-
-#### Fase Final: Conclusão (Abril-Maio 2025)
-- [ ] Finalizar todos os artigos planejados
-- [ ] Preparar defesa do TCC
-- [ ] Publicar dataset de pesquisa
-- [ ] Documentar lições aprendidas
 
 ---
 
