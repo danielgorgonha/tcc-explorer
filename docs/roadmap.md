@@ -2,17 +2,24 @@
 
 Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 
+## Status Atual (Janeiro 2025)
+
+**Progresso Geral**: 75% concluído
+- ✅ Fases 1-3: Completas
+- 🔄 Fase 4: Em andamento (artigos científicos)
+- ⏳ Fase 5: Planejada
+
 ## Cronograma Geral
 
-| Mês | Fase | Atividades Principais |
-|-----|------|----------------------|
-| 1 | Revisão e Mapeamento | Revisão bibliográfica, mapeamento de explorers |
-| 2 | Análise Comparativa | Análise técnica detalhada, benchmarking |
-| 3 | Síntese e Framework | Consolidação de achados, desenvolvimento de framework |
-| 4-5 | Produção de Artigos | Escrita e revisão de artigos científicos |
-| 6 | Apresentação | Preparação e defesa do TCC |
+| Mês | Fase | Atividades Principais | Status |
+|-----|------|----------------------|--------|
+| 1 | Revisão e Mapeamento | Revisão bibliográfica, mapeamento de explorers | ✅ Concluído |
+| 2 | Análise Comparativa | Análise técnica detalhada, benchmarking | ✅ Concluído |
+| 3 | Síntese e Framework | Consolidação de achados, desenvolvimento de framework | ✅ Concluído |
+| 4-5 | Produção de Artigos | Escrita e revisão de artigos científicos | 🔄 Em andamento |
+| 6 | Apresentação | Preparação e defesa do TCC | ⏳ Planejado |
 
-## Mês 1: Revisão e Mapeamento
+## Mês 1: Revisão e Mapeamento ✅ CONCLUÍDO
 
 **Objetivos**:
 - Compreender o estado da arte em block explorers
@@ -26,15 +33,15 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 - Análise inicial de padrões
 
 **Entregas**:
-- Revisão bibliográfica completa
-- Panorama de explorers existentes
-- Base de dados consolidada
+- ✅ Revisão bibliográfica completa
+- ✅ Panorama de explorers existentes
+- ✅ Base de dados consolidada
 
 **Tempo**: Semanas 1-4
 
 ---
 
-## Mês 2: Análise Comparativa
+## Mês 2: Análise Comparativa ✅ CONCLUÍDO
 
 **Objetivos**:
 - Analisar arquiteturas e tecnologias
@@ -48,16 +55,16 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 - Análise de código fonte (open source)
 
 **Entregas**:
-- Análise comparativa completa
-- Taxonomia de block explorers
-- Métricas de performance consolidadas
-- Identificação de padrões dominantes
+- ✅ Análise comparativa completa
+- ✅ Taxonomia de block explorers
+- ✅ Métricas de performance consolidadas
+- ✅ Identificação de padrões dominantes
 
 **Tempo**: Semanas 5-8
 
 ---
 
-## Mês 3: Síntese e Framework
+## Mês 3: Síntese e Framework ✅ CONCLUÍDO
 
 **Objetivos**:
 - Sintetizar achados da pesquisa
@@ -71,16 +78,16 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 - Propostas de inovação
 
 **Entregas**:
-- Framework de avaliação multidimensional
-- Identificação de 5+ lacunas de pesquisa
-- Propostas arquiteturais
-- Whitepaper completo
+- ✅ Framework de avaliação multidimensional
+- ✅ Identificação de 5+ lacunas de pesquisa
+- ✅ Propostas arquiteturais
+- ✅ Whitepaper completo
 
 **Tempo**: Semanas 9-12
 
 ---
 
-## Meses 4-5: Produção de Artigos
+## Meses 4-5: Produção de Artigos 🔄 EM ANDAMENTO
 
 **Objetivos**:
 - Produzir artigos científicos de qualidade
@@ -89,36 +96,38 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 
 **Atividades**:
 
-**Artigo 1** - Survey Paper:
-- Revisão sistemática e taxonomia
-- Target: ACM Computing Surveys
+**Artigo 1** - Survey Paper: ✅ CONCLUÍDO
+- ✅ Revisão sistemática e taxonomia
+- ✅ Target: ACM Computing Surveys
+- ✅ Status: Pronto para submissão
 
-**Artigo 2** - Technical Paper:
+**Artigo 2** - Technical Paper: 🔄 EM ANDAMENTO
 - Análise de estratégias de indexação
 - Target: IEEE Blockchain Conference
 
-**Artigo 3** - Design Paper:
+**Artigo 3** - Design Paper: ⏳ PLANEJADO
 - Padrões arquiteturais
 - Target: ACM Web3 Conference
 
-**Artigo 4** - Empirical Paper (opcional):
+**Artigo 4** - Empirical Paper (opcional): ⏳ PLANEJADO
 - Benchmarking de performance
 - Target: IEEE Performance Evaluation
 
-**Artigo 5** - Security Analysis (opcional):
+**Artigo 5** - Security Analysis (opcional): ⏳ PLANEJADO
 - Vulnerabilidades e mitigações
 - Target: IEEE Security & Privacy
 
 **Entregas**:
-- Mínimo 3 artigos submetidos
-- Whitepaper publicado
-- Documentação técnica completa
+- ✅ 1 artigo concluído e pronto para submissão
+- ✅ Whitepaper publicado
+- ✅ Documentação técnica completa
+- 🔄 2-4 artigos adicionais em desenvolvimento
 
 **Tempo**: Semanas 13-20
 
 ---
 
-## Mês 6: Apresentação e Defesa
+## Mês 6: Apresentação e Defesa ⏳ PLANEJADO
 
 **Objetivos**:
 - Preparar apresentação final
@@ -144,15 +153,16 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 ## Métricas de Sucesso
 
 ### Publicações
-- [ ] Whitepaper completo publicado
-- [ ] Mínimo 3 artigos submetidos
+- [x] Whitepaper completo publicado
+- [x] 1 artigo concluído e pronto para submissão
+- [ ] 2+ artigos adicionais submetidos
 - [ ] 1+ artigo aceito em conferência/periódico
 
 ### Pesquisa
-- [ ] 12+ explorers analisados
-- [ ] Taxonomia completa desenvolvida
-- [ ] Framework de avaliação validado
-- [ ] 5+ lacunas de pesquisa identificadas
+- [x] 12+ explorers analisados
+- [x] Taxonomia completa desenvolvida
+- [x] Framework de avaliação validado
+- [x] 5+ lacunas de pesquisa identificadas
 
 ### Apresentação
 - [ ] TCC defendido com sucesso
@@ -160,38 +170,38 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 - [ ] Reconhecimento acadêmico
 
 ### Impacto
-- [ ] Repositório público com documentação
-- [ ] Dados compartilhados com comunidade
+- [x] Repositório público com documentação
+- [x] Dados compartilhados com comunidade
 - [ ] Contribuição para literatura acadêmica
 
 ---
 
 ## Marcos Críticos
 
-**Marco 1** (Fim Mês 1): Base de pesquisa estabelecida
-- Revisão bibliográfica completa
-- Explorers mapeados
-- Metodologia definida
+**Marco 1** (Fim Mês 1): Base de pesquisa estabelecida ✅ CONCLUÍDO
+- ✅ Revisão bibliográfica completa
+- ✅ Explorers mapeados
+- ✅ Metodologia definida
 
-**Marco 2** (Fim Mês 2): Análise concluída
-- Padrões identificados
-- Taxonomia desenvolvida
-- Dados consolidados
+**Marco 2** (Fim Mês 2): Análise concluída ✅ CONCLUÍDO
+- ✅ Padrões identificados
+- ✅ Taxonomia desenvolvida
+- ✅ Dados consolidados
 
-**Marco 3** (Fim Mês 3): Conhecimento sintetizado
-- Framework desenvolvido
-- Lacunas identificadas
-- Whitepaper completo
+**Marco 3** (Fim Mês 3): Conhecimento sintetizado ✅ CONCLUÍDO
+- ✅ Framework desenvolvido
+- ✅ Lacunas identificadas
+- ✅ Whitepaper completo
 
-**Marco 4** (Fim Mês 5): Artigos produzidos
-- Artigos submetidos
-- Documentação completa
-- Conhecimento disseminado
+**Marco 4** (Fim Mês 5): Artigos produzidos 🔄 EM ANDAMENTO
+- ✅ 1 artigo concluído e pronto para submissão
+- ✅ Documentação completa
+- 🔄 2-4 artigos adicionais em desenvolvimento
 
-**Marco 5** (Fim Mês 6): Projeto concluído
-- TCC defendido
-- Publicações em andamento
-- Impacto alcançado
+**Marco 5** (Fim Mês 6): Projeto concluído ⏳ PLANEJADO
+- ⏳ TCC defendido
+- ⏳ Publicações em andamento
+- ⏳ Impacto alcançado
 
 ---
 
@@ -244,6 +254,30 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 
 ---
 
-**Versão**: 1.0  
-**Atualização**: Janeiro 2024  
-**Status**: Em execução
+## Próximos Passos (Janeiro 2025)
+
+### Imediato (Próximas 2 semanas)
+- [ ] Submeter Artigo 1 para ACM Computing Surveys
+- [ ] Iniciar desenvolvimento do Artigo 2 (Technical Paper)
+- [ ] Preparar apresentação para orientador
+
+### Curto Prazo (Próximos 2 meses)
+- [ ] Completar Artigo 2 e submeter para IEEE Blockchain Conference
+- [ ] Desenvolver Artigo 3 (Design Paper)
+- [ ] Preparar estrutura da defesa TCC
+
+### Médio Prazo (Próximos 3 meses)
+- [ ] Finalizar todos os artigos planejados
+- [ ] Preparar apresentação final do TCC
+- [ ] Organizar defesa perante banca
+
+### Longo Prazo (Próximos 6 meses)
+- [ ] Defender TCC com sucesso
+- [ ] Publicar resultados em conferências
+- [ ] Estabelecer colaborações acadêmicas
+
+---
+
+**Versão**: 2.0  
+**Atualização**: Janeiro 2025  
+**Status**: 75% concluído - Fase 4 em andamento
