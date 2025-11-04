@@ -666,32 +666,26 @@ Plano de execução da pesquisa sobre block explorers ao longo de 6 meses.
 ### 🧠 Insights Gerais da Pesquisa
 
 #### Descobertas Principais
-1. **Gap na Literatura**: Ausência total de pesquisa acadêmica sobre block explorers
-2. **Diversidade Arquitetural**: 3 padrões dominantes (Monolítico, Microserviços, Híbrido)
-3. **Trade-offs Identificados**: Performance vs Transparência, Simplicidade vs Customização
-4. **Oportunidades Únicas**: Primeira taxonomia sistemática, framework de avaliação
-5. **Sustentabilidade**: Modelos de negócio diversos para projetos open source
+
+Durante o desenvolvimento desta pesquisa, identificamos uma ausência quase total de literatura acadêmica sobre block explorers - surpreendente, considerando sua importância no ecossistema blockchain atual. A análise dos 12 explorers revelou três padrões arquiteturais claramente dominantes: monolítico, microserviços e híbrido, cada um apresentando trade-offs específicos entre performance, transparência, simplicidade e customização.
+
+Uma descoberta particularmente interessante foi observar que projetos open source desenvolvem modelos de negócio bastante diversos para sustentabilidade, variando desde doações comunitárias até serviços enterprise. Esta primeira taxonomia sistemática e o framework de avaliação desenvolvido estabelecem uma base sólida para pesquisas futuras na área.
 
 #### Lições Aprendidas
-1. **Metodologia Rigorosa**: Importância de referências verificáveis e análise estatística
-2. **Padronização**: Templates e frameworks facilitam consistência e qualidade
-3. **Documentação**: Consolidação reduz duplicações e facilita manutenção
-4. **Autoavaliação**: Auditoria contínua garante qualidade acadêmica
-5. **Planejamento**: Roadmap detalhado facilita execução e acompanhamento
+
+Através deste processo, aprendemos que uma metodologia rigorosa com referências verificáveis e análise estatística adequada é fundamental para pesquisa acadêmica de qualidade. A padronização através de templates e frameworks mostrou-se essencial para garantir consistência, enquanto a consolidação de documentação reduziu significativamente duplicações e facilitou a manutenção.
+
+A autoavaliação contínua através de auditorias provou-se crucial para manter a qualidade acadêmica, e um planejamento detalhado com roadmap estruturado facilitou muito a execução e acompanhamento do projeto.
 
 #### Contribuições para a Academia
-1. **Primeira Taxonomia**: Classificação sistemática de block explorers
-2. **Framework de Avaliação**: Critérios objetivos para comparação
-3. **Análise Comparativa**: Estudo empírico de 12 explorers
-4. **Identificação de Gaps**: Lacunas na literatura identificadas
-5. **Base Teórica**: Fundação para futuras pesquisas
+
+Este trabalho oferece à academia uma classificação sistemática de block explorers que, até onde sabemos, não existia anteriormente. O framework de avaliação desenvolvido fornece critérios objetivos para comparação, enquanto a análise comparativa empírica de 12 explorers oferece dados concretos para a comunidade acadêmica.
+
+A identificação de lacunas na literatura e a base teórica estabelecida servem como fundação para futuras pesquisas na área, preenchendo um gap importante no conhecimento acadêmico.
 
 #### Impacto Esperado
-1. **Para Desenvolvedores**: Guias e templates para desenvolvimento
-2. **Para Pesquisadores**: Base teórica e metodológica
-3. **Para Acadêmicos**: Primeira pesquisa sistemática na área
-4. **Para a Comunidade**: Padrões e melhores práticas
-5. **Para o Ecossistema**: Fomento de inovação e transparência
+
+Esperamos que este trabalho seja útil para desenvolvedores através dos guias e templates criados, para pesquisadores como base teórica e metodológica, e para acadêmicos como referência da primeira pesquisa sistemática na área. Para a comunidade blockchain, esperamos que os padrões e melhores práticas identificadas fomentem inovação e transparência no ecossistema.
 
 ---
 

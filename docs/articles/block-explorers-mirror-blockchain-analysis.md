@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Block explorers represent the most critical interface between blockchain technology and end users, serving as essential tools for transparency, verification, and analysis in decentralized ecosystems. This study presents a comprehensive analysis of block explorers as "mirrors" of blockchain technology, examining their architectural patterns, social impact, and technical challenges. Through systematic analysis of 12 major block explorers across different blockchain ecosystems, we identify three dominant architectural patterns and propose a classification framework based on five technical dimensions. Our findings reveal that block explorers democratize access to blockchain data, build trust through transparency, and play a crucial role in the adoption of decentralized technologies (Zheng et al., 2018; Casino et al., 2019). The study contributes to the limited academic literature on block explorer architecture and provides insights for future development of these critical infrastructure components.
+Block explorers serve as the primary interface between blockchain technology and end users, enabling transparency, verification, and analysis in decentralized ecosystems. This work examines block explorers as "mirrors" of blockchain technology, analyzing their architectural patterns, social impact, and technical challenges. By systematically evaluating 12 major block explorers across different blockchain ecosystems, we identified three dominant architectural patterns and developed a classification framework based on five technical dimensions. Our analysis shows that block explorers make blockchain data accessible to non-technical users, foster trust through transparency, and are fundamental to the adoption of decentralized technologies (Zheng et al., 2018; Casino et al., 2019). This research addresses a gap in academic literature on block explorer architecture and offers practical guidance for developing these infrastructure components.
 
 **Keywords**: blockchain explorer, transparency, Web3, decentralization, user interface, data visualization, trust, verification
 
@@ -22,7 +22,7 @@ Since the launch of Blockchain.info in 2011 (the first Bitcoin explorer) and Eth
 
 ### 1.2 Problem Statement
 
-Despite the proliferation of block explorers, there is a significant gap in academic literature regarding their architectures, design patterns, and technical challenges. This scarcity hinders the development of efficient new explorers and the optimization of existing systems. Current research lacks:
+While block explorers have proliferated across different blockchain ecosystems, academic research on their architectures remains surprisingly sparse. This absence of scholarly work makes it difficult to develop new explorers efficiently or optimize existing systems. After reviewing the literature, we found that current research lacks:
 
 - Systematic analysis of architectural patterns
 - Comparative studies of technical implementations
@@ -43,23 +43,17 @@ This study aims to:
 
 ### 1.4 Contributions
 
-This work makes the following contributions:
-
-- **First comprehensive academic analysis** of block explorer architecture
-- **Systematic classification framework** based on five technical dimensions
-- **Comparative analysis** of 12 major block explorers
-- **Social impact assessment** of transparency and democratization
-- **Future research directions** and innovation opportunities
+This research contributes to the field in several ways. We provide what we believe is the first academic analysis of block explorer architecture, proposing a classification framework based on five technical dimensions. We also conducted a comparative analysis of 12 major block explorers and assessed the social impact of transparency tools. Additionally, we outline directions for future research and potential innovations in this area.
 
 ## 2. Related Work
 
 ### 2.1 Blockchain Data Visualization
 
-Previous research has focused primarily on blockchain data analysis and visualization techniques. Zheng et al. (2018) conducted a comprehensive survey of blockchain challenges and opportunities, identifying data visualization as a critical component for user adoption. Casino et al. (2019) provided a systematic literature review of blockchain-based applications, highlighting the importance of user interfaces in blockchain systems. However, limited attention has been paid to the infrastructure that enables these visualizations - specifically, block explorers.
+Previous research has focused primarily on blockchain data analysis and visualization techniques. Zheng et al. (2018) surveyed blockchain challenges and opportunities, identifying data visualization as important for user adoption. Casino et al. (2019) reviewed blockchain-based applications, noting the significance of user interfaces in blockchain systems. However, researchers have paid little attention to the infrastructure enabling these visualizations - specifically, block explorers.
 
 ### 2.2 Web3 User Interfaces
 
-Research on Web3 user interfaces has emphasized wallet design and dApp interfaces, but block explorers have received minimal academic attention despite their critical role in user education and verification. The gap in literature is particularly evident in the lack of systematic analysis of how users interact with blockchain data through explorer interfaces.
+Research on Web3 user interfaces has emphasized wallet design and dApp interfaces, but block explorers have received minimal academic attention despite being essential for user education and verification. This gap is most apparent in the absence of systematic analysis examining how users interact with blockchain data through explorer interfaces.
 
 ### 2.3 Blockchain Transparency and Trust
 
@@ -75,18 +69,18 @@ Studies on blockchain transparency have focused on consensus mechanisms and gove
 4. **Minimal research on social impact** and educational value of blockchain transparency tools
 5. **Absence of systematic classification** of block explorer architectures and design patterns
 
-**This study addresses these gaps by:**
-- Providing the first systematic academic taxonomy of block explorer architectures
+**We address these gaps by:**
+- Creating what appears to be the first systematic academic taxonomy of block explorer architectures
 - Developing a five-dimensional classification framework for comparative evaluation
-- Conducting empirical analysis of twelve production-grade explorers
-- Assessing social and epistemic impacts of transparency interfaces
-- Proposing recommendations for future research and design principles
+- Analyzing twelve production-grade explorers empirically
+- Evaluating social and epistemic impacts of transparency interfaces
+- Suggesting directions for future research and design principles
 
 ## 3. Methodology
 
 ### 3.1 Research Design
 
-This study employs a **mixed-methods approach** combining:
+We used a **mixed-methods approach** that combines:
 
 - **Systematic literature review** of academic and technical sources
 - **Comparative case study analysis** of 12 major block explorers
