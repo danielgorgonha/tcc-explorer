@@ -685,7 +685,7 @@ A identificação de lacunas na literatura e a base teórica estabelecida servem
 
 #### Impacto Esperado
 
-Esperamos que este trabalho seja útil para desenvolvedores através dos guias e templates criados, para pesquisadores como base teórica e metodológica, e para acadêmicos como referência da primeira pesquisa sistemática na área. Para a comunidade blockchain, esperamos que os padrões e melhores práticas identificadas fomentem inovação e transparência no ecossistema.
+É difícil prever o impacto exato deste trabalho, mas temos algumas expectativas. Esperamos que desenvolvedores encontrem valor nos guias e templates que criamos, oferecendo um ponto de partida para projetos novos. Para pesquisadores, esperamos que a base teórica e metodológica estabelecida facilite investigações futuras. Para acadêmicos, esperamos que este trabalho sirva como referência, já que parece ser a primeira pesquisa sistemática na área. E para a comunidade blockchain mais ampla, esperamos que os padrões e melhores práticas identificadas realmente fomentem inovação e transparência.
 
 ---
 

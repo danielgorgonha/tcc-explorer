@@ -21,15 +21,11 @@ Blockchains públicas contêm dados completamente transparentes, porém tecnicam
 
 ### 1.2 Problema de Pesquisa
 
-Apesar da proliferação de block explorers, há escassez de literatura acadêmica sobre suas arquiteturas, padrões de design e desafios técnicos. Esta lacuna dificulta o desenvolvimento de novos explorers eficientes e a otimização de sistemas existentes.
+Embora block explorers tenham proliferado amplamente, a literatura acadêmica sobre suas arquiteturas, padrões de design e desafios técnicos é surpreendentemente escassa. Quando iniciamos esta pesquisa, esperávamos encontrar um corpo de literatura estabelecido - em vez disso, descobrimos uma lacuna significativa. Esta ausência de trabalho acadêmico cria desafios reais: desenvolvedores que constroem novos explorers precisam essencialmente começar do zero, sem orientação sistemática sobre decisões arquiteturais ou estratégias de otimização.
 
 ### 1.3 Objetivos
 
-1. Mapear e classificar block explorers existentes
-2. Identificar padrões arquiteturais dominantes
-3. Analisar desafios técnicos de escalabilidade e performance
-4. Propor framework de classificação e avaliação
-5. Identificar lacunas de pesquisa e oportunidades de inovação
+Este trabalho tem vários objetivos inter-relacionados. Primeiro, buscamos mapear e classificar os block explorers existentes, criando uma visão abrangente do panorama atual. Segundo, pretendemos identificar os padrões arquiteturais dominantes e entender suas implicações. Terceiro, analisamos os desafios técnicos relacionados à escalabilidade e performance que os explorers enfrentam. Quarto, propomos um framework de classificação e avaliação que permite comparação sistemática. Finalmente, identificamos lacunas de pesquisa e delimitamos oportunidades para inovação futura.
 
 ### 1.4 Metodologia
 
@@ -661,26 +657,15 @@ Propomos arquitetura híbrida combinando melhores práticas:
 
 ### 10.1 Principais Descobertas
 
-1. **Consolidação Arquitetural**: Três padrões dominantes (monolítico, microserviços, serverless)
-2. **Stack Tecnológica**: Convergência para Rust/Go (backend), React (frontend), PostgreSQL (database)
-3. **Desafios Comuns**: Escalabilidade, performance, indexação em tempo real
-4. **Lacunas Significativas**: Cross-chain, privacy, sustentabilidade
+Nossa análise revelou algumas descobertas importantes. Primeiro, observamos uma consolidação arquitetural em torno de três padrões dominantes: monolítico, microserviços e serverless. Cada um tem seus próprios trade-offs, mas a escolha entre eles parece ser mais pragmática do que ideológica. Segundo, identificamos uma convergência nas stacks tecnológicas - há uma tendência clara em direção a Rust/Go para backend, React para frontend, e PostgreSQL para database. Terceiro, os desafios são surpreendentemente consistentes: escalabilidade, performance e indexação em tempo real aparecem repetidamente. Quarto, as lacunas mais significativas que identificamos estão relacionadas a cross-chain, privacy e sustentabilidade - áreas onde a pesquisa é particularmente necessária.
 
 ### 10.2 Contribuições
 
-1. Taxonomia sistemática de block explorers
-2. Framework de avaliação multidimensional
-3. Análise comparativa de 12 explorers principais
-4. Identificação de 5 lacunas principais de pesquisa
-5. Propostas de arquitetura de referência
+Este trabalho oferece várias contribuições. Desenvolvemos uma taxonomia sistemática de block explorers que, até onde sabemos, não existia anteriormente. Criamos um framework de avaliação multidimensional que permite comparação objetiva. Realizamos uma análise comparativa detalhada de 12 explorers principais, coletando dados empíricos. Identificamos 5 lacunas principais de pesquisa que representam oportunidades significativas. E propusemos arquiteturas de referência que podem guiar desenvolvimento futuro.
 
 ### 10.3 Trabalhos Futuros
 
-1. Implementação de protótipo baseado em arquitetura proposta
-2. Benchmarking extensivo com métricas padronizadas
-3. Desenvolvimento de protocolo cross-chain de indexação
-4. Pesquisa em privacy-preserving techniques
-5. Estudo de modelos de sustentabilidade para open source
+Há várias direções promissoras para pesquisa futura. A implementação de um protótipo baseado na arquitetura proposta seria um passo natural, permitindo validação prática das ideias. Benchmarking extensivo com métricas padronizadas ajudaria a estabelecer benchmarks realistas. O desenvolvimento de protocolo cross-chain de indexação resolveria um dos desafios mais significativos. Pesquisa em privacy-preserving techniques é urgente, considerando as implicações regulatórias. E estudos de modelos de sustentabilidade para open source são necessários para garantir a viabilidade de longo prazo desses projetos.
 
 ## Referências
 
